@@ -1,0 +1,1586 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-06-04T17:15:32.272Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Kiyim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-06-04T17:16:03.940Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Maishiy texnika",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-06-04T17:16:24.651Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Aksuessarlar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-06-04T17:17:11.018Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Go'zallik va parvarish",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-06-04T17:17:21.693Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Sport anjomlari",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-06-04T17:25:50.998Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Ayollar uchun yurak shaklidagi tosh uzuk, zanjir, universal o'lcham, qizlar uchun bezak by Aksuessarlar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-06-04T17:27:11.132Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Ayollar uchun quyoshdan saqlovchi ko'zoynak + bonusli ko'zoynak uchun mato by Aksuessarlar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-06-04T17:28:37.221Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "3",
+    "object_repr": "Erkaklar uchun kvarts qo'l soati, metal tasmali by Aksuessarlar",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-06-04T17:30:07.255Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "4",
+    "object_repr": "Haydovchi ko'zoynak, haydovchilar uchun porlashga qarshi ko'zoynaklar by Go'zallik va parvarish",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-06-04T17:32:03.844Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "5",
+    "object_repr": "Yuz uchun tonik Viteks Aloe, namlovchi, 150 ml by Go'zallik va parvarish",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-06-04T17:32:59.263Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "6",
+    "object_repr": "Suyuq lab bo'yog'i Kiko, balzam, blesk, 6.5 ml, 3D effect bilan by Go'zallik va parvarish",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-06-04T17:33:49.698Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "7",
+    "object_repr": "Erkaklar shimlari Lazers's good 1978 by Kiyim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-06-04T17:34:42.664Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "8",
+    "object_repr": "Erkaklar uchun shimlar Terra Pro SS24CL3-2-19924 by Kiyim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-06-04T17:35:51.553Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "9",
+    "object_repr": "Futbolka Sabr yozuv bilan by Kiyim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-06-04T17:36:43.055Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "10",
+    "object_repr": "Futbolka BBR uniseks, suv o'tkazmaydigan anime printli, oversayz, paxtada by Kiyim",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-06-04T17:37:59.191Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "11",
+    "object_repr": "Mini qo'l ventilyatori, USB quvvatlash va stendli ish stoli konditsioneri, 2 tasi 1 da by Maishiy texnika",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-06-04T17:39:00.710Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "12",
+    "object_repr": "Kir yuvish mashinasi JPE Invertor BLDC, 6-8 kg, kechiktirib yuvish, Child-Lock, ko'pikni olib tashlash by Maishiy texnika",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-06-04T17:39:52.311Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "13",
+    "object_repr": "Otjimaniya uchun taxta, trenajor qo'llar va tana uchun, espander by Sport anjomlari",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2024-06-04T17:41:01.314Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "14",
+    "object_repr": "Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2024-06-05T05:19:15.899Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Aksuessarlar",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2024-06-05T05:22:48.342Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Go'zallik va parvarish",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2024-06-05T05:23:39.910Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Kiyim",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2024-06-05T05:25:30.298Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Maishiy texnika",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2024-06-05T05:26:00.833Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Sport anjomlari",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2024-06-06T09:06:49.781Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "1",
+    "object_repr": "Coupon object (1)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2024-06-06T09:07:05.238Z",
+    "user": 1,
+    "content_type": 13,
+    "object_id": "2",
+    "object_repr": "Coupon object (2)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2024-06-12T15:20:31.084Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "3",
+    "object_repr": "review by asdfasd for Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2024-06-12T15:20:31.089Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "2",
+    "object_repr": "review by asdfasd for Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2024-06-12T15:20:31.094Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "1",
+    "object_repr": "review by Shahzod for Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2024-06-12T15:26:29.597Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "9",
+    "object_repr": "review by Shahzod for Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2024-06-12T15:26:35.508Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "8",
+    "object_repr": "review by asdfasd for Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2024-06-12T15:26:35.512Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "7",
+    "object_repr": "review by asdfasd for Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2024-06-12T15:26:35.516Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "6",
+    "object_repr": "review by asdfasd for Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2024-06-12T15:26:35.521Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "5",
+    "object_repr": "review by asdfasd for Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2024-06-12T15:26:35.525Z",
+    "user": 1,
+    "content_type": 10,
+    "object_id": "4",
+    "object_repr": "review by asdfasd for Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi by Sport anjomlari",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add catagory",
+    "content_type": 7,
+    "codename": "add_catagory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change catagory",
+    "content_type": 7,
+    "codename": "change_catagory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete catagory",
+    "content_type": 7,
+    "codename": "delete_catagory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view catagory",
+    "content_type": 7,
+    "codename": "view_catagory"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add product",
+    "content_type": 8,
+    "codename": "add_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change product",
+    "content_type": 8,
+    "codename": "change_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete product",
+    "content_type": 8,
+    "codename": "delete_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view product",
+    "content_type": 8,
+    "codename": "view_product"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add product sizes",
+    "content_type": 9,
+    "codename": "add_productsizes"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change product sizes",
+    "content_type": 9,
+    "codename": "change_productsizes"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete product sizes",
+    "content_type": 9,
+    "codename": "delete_productsizes"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view product sizes",
+    "content_type": 9,
+    "codename": "view_productsizes"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add review",
+    "content_type": 10,
+    "codename": "add_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change review",
+    "content_type": 10,
+    "codename": "change_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete review",
+    "content_type": 10,
+    "codename": "delete_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view review",
+    "content_type": 10,
+    "codename": "view_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add order",
+    "content_type": 11,
+    "codename": "add_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change order",
+    "content_type": 11,
+    "codename": "change_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete order",
+    "content_type": 11,
+    "codename": "delete_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view order",
+    "content_type": 11,
+    "codename": "view_order"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add order item",
+    "content_type": 12,
+    "codename": "add_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change order item",
+    "content_type": 12,
+    "codename": "change_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete order item",
+    "content_type": 12,
+    "codename": "delete_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view order item",
+    "content_type": 12,
+    "codename": "view_orderitem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 49,
+  "fields": {
+    "name": "Can add coupon",
+    "content_type": 13,
+    "codename": "add_coupon"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 50,
+  "fields": {
+    "name": "Can change coupon",
+    "content_type": 13,
+    "codename": "change_coupon"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 51,
+  "fields": {
+    "name": "Can delete coupon",
+    "content_type": 13,
+    "codename": "delete_coupon"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 52,
+  "fields": {
+    "name": "Can view coupon",
+    "content_type": 13,
+    "codename": "view_coupon"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$adK5qDDy9AHVrtiZdbKJIn$a8n9AeK6Xh8E5iK7l7Oz+ZM0SFoyMGx83uIT0u7Wn3c=",
+    "last_login": "2024-06-12T15:19:58.033Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "admin@gmial.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-06-04T17:13:36.465Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "product",
+    "model": "catagory"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "product",
+    "model": "product"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "product",
+    "model": "productsizes"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "product",
+    "model": "review"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "orders",
+    "model": "order"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "orders",
+    "model": "orderitem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 13,
+  "fields": {
+    "app_label": "coupons",
+    "model": "coupon"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8fii8seh8g2hf5qfwql2jg318su9rkcj",
+  "fields": {
+    "session_data": ".eJxVjrEOgzAQQ_8lcxWFOyCBsXu_AV3uokJbJRWQCfHvDRVDO9p-trypgfI6DnkJ8zCJ6lWlLr-eJ36GeATyoHhPmlNc58nrA9FnuuhbkvC6nuzfwEjLWNpYIzuxBAjWGYAakMVwMIyuboOg76x4FJCOGuMaqQxyU4hWsPPBlVFO-Z3i9yUURfOq-m3fP1x8P3k:1sFXRf:lbj8J2pRYdhITKKoT-eWOL43PCERzy9jh_e0fAcGmPk",
+    "expire_date": "2024-06-21T11:07:43.328Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "yasa0osmar0voomqx6aq7csvzahhc1pk",
+  "fields": {
+    "session_data": ".eJxVjs2OgzAMhN_FZxTlxwmFY-_7DMgJbqFFSReSw6ri3TesulLrgw8zn2f8hIFKnoay8TrMI_SgoHnXPIU7x8MYbxSvSYQU8zp7cSDi5W7iK428nF_sR8BE21Sv8aIuGLxCCk4ZNmSU9-RkKzvjUUkOzvKJO2eQcXRaWrQnr6VuA3KrTQ0NqTxS_PsylmWpAq0Z-ifYY30XinnOP9DbBh7rHLi2WllHSAl7A_qT0viGdf_Yvv8CgzhVvQ:1sHcc8:43ySok86hePqxRDDo1C5j7nAUpb7BEXoCDegL3mDQwI",
+    "expire_date": "2024-06-27T05:03:08.735Z"
+  }
+},
+{
+  "model": "product.catagory",
+  "pk": 1,
+  "fields": {
+    "name": "Kiyim",
+    "slug": "kiyim",
+    "image": "category/616054afafb90082eed66cdb_parker-burchfield-tvg4wvjgsey-unsplash.jpg"
+  }
+},
+{
+  "model": "product.catagory",
+  "pk": 2,
+  "fields": {
+    "name": "Maishiy texnika",
+    "slug": "maishiy-texnika",
+    "image": "category/shutterstock_551462530-1920x1440.jpg"
+  }
+},
+{
+  "model": "product.catagory",
+  "pk": 3,
+  "fields": {
+    "name": "Aksuessarlar",
+    "slug": "aksuessarlar",
+    "image": "category/1544216748394.jpg"
+  }
+},
+{
+  "model": "product.catagory",
+  "pk": 4,
+  "fields": {
+    "name": "Go'zallik va parvarish",
+    "slug": "gozallik-va-parvarish",
+    "image": "category/bhcosmetics.webp"
+  }
+},
+{
+  "model": "product.catagory",
+  "pk": 5,
+  "fields": {
+    "name": "Sport anjomlari",
+    "slug": "sport-anjomlari",
+    "image": "category/Sport-Balls.jpg"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 1,
+  "fields": {
+    "category": 3,
+    "name": "Ayollar uchun yurak shaklidagi tosh uzuk, zanjir, universal o'lcham, qizlar uchun bezak",
+    "slug": "ayollar-uchun-yurak-shaklidagi-tosh-uzuk-zanjir-universal-olcham-qizlar-uchun-bezak",
+    "image": "products/2024/06/04/coef53979c1bjs1ask80.jpg",
+    "description": "Uzuk universal o'lchamdagi kumushdan qilingan. Butun dunyoga o'zingizning sevgingizga bo'lgan e'tiqodingizni Pushti yurak uzukiga ayting. Uzukning o'rtasida yurak shaklidagi pushti sun'iy kristall joylashgan bo'lib, u halqaning o'rnatilishi va old tomonidagi yorqin pave bilan to'ldiriladi. Chiroyli ko'rinish uchun uzukni boshqa taraflama qarasa , masalan Pushti yurak stud sirg'alari bilan bog'langan. Yaxshi sifatli replika.",
+    "price": "25000.00",
+    "available": true,
+    "created": "2024-06-04T17:25:50.998Z",
+    "updated": "2024-06-04T17:25:50.998Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 2,
+  "fields": {
+    "category": 3,
+    "name": "Ayollar uchun quyoshdan saqlovchi ko'zoynak + bonusli ko'zoynak uchun mato",
+    "slug": "ayollar-uchun-quyoshdan-saqlovchi-kozoynak-bonusli-kozoynak-uchun-mato",
+    "image": "products/2024/06/04/cnm1ua4u2hhlb05h82ag.jpg",
+    "description": "Ayollar quyoshdan saqlaydigan ko'zoynaklar. Quyosh ko'zoynaklari yozgi shkafning ajralmas qismi bo'lib, u nafaqat ko'zingizni yorqin quyoshdan himoya qiladi, balki beqiyos ko'rinishni yaratadi. Sohilga, sayrga yoki ish uchrashuviga borasizmi, bizning ayollar quyoshdan saqlaydigan ko'zoynaklarimiz har qanday vaziyatda ishonchli hamroh bo'ladi.\r\n\r\n\r\n\r\nMurakkablik va qulaylikning tengsiz kombinatsiyasi bizning kolleksiyamizni moda va zamonaviy ayollar uchun ideal tanlovga aylantiradi. Va bizning ko'zoynaklarimizning ajoyib optik xususiyatlari uzoq vaqt foydalanishdan keyin ham ko'zingizni charchatmasdan maksimal vizual zavqni ta'minlaydi.\r\n\r\n\r\n\r\nBizning mamnun mijozlarimiz qatoriga qo'shiling va bugun ayollar quyoshdan saqlaydigan ko'zoynak sotib oling. O'zingizning noyobligingizni ta'kidlang, qulaylik va nafislikni his eting va barcha do'stlaringizga hasadiga aylaning. Har doim trendda bo'ladigan quyoshdan saqlaydigan ko'zoynak sotib oling!",
+    "price": "59000.00",
+    "available": true,
+    "created": "2024-06-04T17:27:11.117Z",
+    "updated": "2024-06-04T17:27:11.117Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 3,
+  "fields": {
+    "category": 3,
+    "name": "Erkaklar uchun kvarts qo'l soati, metal tasmali",
+    "slug": "erkaklar-uchun-kvarts-qol-soati-metal-tasmali",
+    "image": "products/2024/06/04/cp2sfonj2e4ghqnrhjeg.jpg",
+    "description": "San'at va vaqt bir bezakda!\r\n\r\nArab rasmlari bilan erkaklar qo'l soatlari - bu badiiy mahorat va amaliylikning o'ziga xos kombinatsiyasi. Bu soatlar nafaqat aniq vaqtni aks ettiradi, balki ajoyib rassomlik san'atidan bahramand bo'lish imkoniyatini ham beradi. Ular kundalik uchrashuvlardan tortib maxsus daqiqalargacha bo'lgan turli tadbirlar uchun javob beradi.\r\n\r\nO'z uslubingiz uchun keng assortiment!\r\n\r\nBizning qo'l soatlarimiz turli xil uslublar va dizaynlarga ega. Siz o'zingiz uchun to'g'ri kelganlarni topishingiz mumkin. Bizning do'konimiz turli arab rasmlari tushirilgan soatlarni taklif etadi, shuning uchun har bir mijoz o'z shaxsiyatini aks ettiruvchi zargarlik buyumlarini topishi mumkin.\r\n\r\nMaxsus daqiqalar uchun ajoyib sovg'a!\r\n\r\nSevgan insoningizga tug'ilgan kuni, yubiley yoki boshqa bayram uchun nima berishni bilmayapsizmi? Arabcha chizilgan erkaklar qo'l soati - bu uning nafisligi va didini ta'kidlaydigan ajoyib va ​​o'ziga xos sovg'a. Maxsus daqiqalar uchun noyob sovg'a yaratish uchun ushbu soatni sovg'a qiling.",
+    "price": "190000.00",
+    "available": true,
+    "created": "2024-06-04T17:28:37.221Z",
+    "updated": "2024-06-04T17:28:37.221Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 4,
+  "fields": {
+    "category": 4,
+    "name": "Haydovchi ko'zoynak, haydovchilar uchun porlashga qarshi ko'zoynaklar",
+    "slug": "haydovchi-kozoynak-haydovchilar-uchun-porlashga-qarshi-kozoynaklar",
+    "image": "products/2024/06/04/chuvjutenntd8rfaqpug.jpg",
+    "description": "Sariq: qora plastik ramka, sariq ob'ektiv.\r\n\r\nQora: qora plastik ramka, qora ob'ektiv.\r\n\r\nMetall kulrang: qora metall ramka, fotoxromli linza (yorug'likka qarab rang o'zgaradi).\r\n\r\nTo'q yashil: qora metall ramka, sariq-yashil ob'ektiv.\r\n\r\nXantal: qora metall ramka, sariq ob'ektiv.\r\n\r\nTo'q kulrang: qora metall ramka, qora aks ettiruvchi polaroid linzalari.\r\n\r\nHaydovchi ko'zoynak, haydovchilar uchun porlashga qarshi ko'zoynaklar fotosurat\r\n\r\nYorug'likka qarshi ko'zoynaklar har bir avtomobil ishqibozi uchun bebaho aksessuardir. Haydovchi uchun parlamaga qarshi ko'zoynaklarda - kunduzi yorqin quyoshdan va kechasi kelayotgan avtomobillarning faralaridan ko'r bo'lmaysiz. Uzoq safarlarda ko'zlaringiz charchamaydi. Haydovchining porlashiga qarshi ko'zoynaklar sizning sayohatlaringizni yanada qulay va xavfsizroq qiladigan aksessuardir. Avtomobil qutisi yoki ko'zoynak ushlagichidan foydalanish ham foydalanish qulayligini oshiradi, chunki siz har doim ko'zoynaklaringiz qaerdaligini bilib olasiz. Ushbu ko'zoynaklar nafaqat avtomobil ixlosmandlariga yoqadi, balki ularni payvandlash, moped, mototsikl, velosiped, qor avtomobilida, ovda, chang'ida va hokazolarda ham kiyish mumkin. Shisha qoplamasi tufayli yomg'ir tomchilari oqadi, linzalar shaffof bo'lib qoladi.",
+    "price": "6000.00",
+    "available": true,
+    "created": "2024-06-04T17:30:07.240Z",
+    "updated": "2024-06-04T17:30:07.240Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 5,
+  "fields": {
+    "category": 4,
+    "name": "Yuz uchun tonik Viteks Aloe, namlovchi, 150 ml",
+    "slug": "yuz-uchun-tonik-viteks-aloe-namlovchi-150-ml",
+    "image": "products/2024/06/04/cbhpdcsff5b139c1ad20.jpg",
+    "description": "Teri keyingi parvarish uchun ideal tarzda tayyorlangan\r\n\r\nTerini namlaydi, yangilaydi va yumshatadi\r\n\r\nTerining pH muvozanatini tiklaydi\r\n\r\nToksinlarni olib tashlaydi va hujayralar nafasini faollashtiradi\r\n\r\n\r\n\r\nSof, jonli aloe Vera sharbatining g'ayrioddiy yuqori konsentratsiyasiga ega noyob formula teriga ajoyib foydali ta'sir ko'rsatadi: uzoq va chuqur namlaydi, tinchlantiradi, yangilaydi va yumshatadi, terining pH muvozanatini tiklaydi, toksinlarni olib tashlaydi va hujayralar nafasini faollashtiradi, atlas silliqligi va jozibali ipakligini beradi.\r\n\r\n\r\n\r\nNatija: yangi va namlangan, teri keyingi parvarishlash tartib-qoidalariga mukammal darajada tayyorlangan.\r\n\r\n100 ml mahsulot tarkibida 97 ml jonli aloe Vera sharbatining konsentrlangan mohiyati mavjud.",
+    "price": "50000.00",
+    "available": true,
+    "created": "2024-06-04T17:32:03.828Z",
+    "updated": "2024-06-04T17:32:03.828Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 6,
+  "fields": {
+    "category": 4,
+    "name": "Suyuq lab bo'yog'i Kiko, balzam, blesk, 6.5 ml, 3D effect bilan",
+    "slug": "suyuq-lab-boyogi-kiko-balzam-blesk-65-ml-3d-effect-bilan",
+    "image": "products/2024/06/04/corncdvj2e4ghqnpvld0.jpg",
+    "description": "01 va 24 soyalardagi lab bo'yog'i to'plami - go'zallik olamidagi ideal hamrohingiz! Ushbu namlovchi va to'yingan mahsulot sizning bo'yanish tartibingiz uchun zarur bo'ladi. Yaltiroq formula teringizga g'amxo'rlik qiluvchi namlovchi ingredientlar bilan boyitilgan va lablaringizga ajoyib yumshoqlik beradi.\r\n\r\nSuyuq lab bo'yog'i Kiko, balzam, blesk, 6.5 ml, 3D effect bilan fotosurat\r\n\r\nInnovatsion hajmli texnologiyalar tufayli sizning tabassumingiz to'liqroq va jozibali ko'rinadi. Makiyajingizga qo'shimcha sehr qo'shadigan miltillovchi zarralar bilan to'ldirilgan porloq to'plam bilan porlang. Ushbu mahsulot oqshom qiyofasini yaratish yoki kundalik uslubingizga jilo qo'shish uchun ideal.\r\n\r\nSuyuq lab bo'yog'i Kiko, balzam, blesk, 6.5 ml, 3D effect bilan fotosurat\r\n\r\nUshbu to'plamdagi lab porlashi kun bo'yi davom etadigan uzoq muddatli qoplamani ta'minlaydi. Endi siz uning yangiligi haqida qayg'urmasdan, peshtaxtadagi yorqinlik va bo'yanishdan bahramand bo'lishingiz mumkin. Ushbu lab bo'yog'i to'plamini bo'yanish kolleksiyangizga qo'shing va lablaringizga yorqin rang bering.\r\n\r\nSuyuq lab bo'yog'i Kiko, balzam, blesk, 6.5 ml, 3D effect bilan fotosurat",
+    "price": "20000.00",
+    "available": true,
+    "created": "2024-06-04T17:32:59.263Z",
+    "updated": "2024-06-04T17:32:59.263Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 7,
+  "fields": {
+    "category": 1,
+    "name": "Erkaklar shimlari Lazers's good 1978",
+    "slug": "erkaklar-shimlari-lazerss-good-1978",
+    "image": "products/2024/06/04/ce4ri58v1htd23aiks60.jpg",
+    "description": "Klassik uslubdagi erkaklar shimlari. Shimlar biroz toraygan va juda qulay. Yupqa / cho'zilgan / pastki qismga toraygan shimlar kundalik kiyimlarda ajoyib ko'rinadi. Erkaklar Ombre shimlari. Yoshlar chinoslari engil materialdan tayyorlangan, ular shaklga yaxshi mos keladi. Ofis uslubidagi shimlar ko'ylaklar, kozoklar bilan erkin birlashtirilishi mumkin. Ish, do'stlar bilan uchrashish, sayr qilish yoki shaharga sayohat qilish uchun juda mos keladi. Bepul moda uslubini afzal ko'rgan erkaklar uchun shimlar. Zamonaviy erkaklar kiyimlari Ombre. Zamonaviy erkaklar chinoslari. Chinoslar nafas oladigan matodan qilingan bo'sh kesmada qilingan. Old tomondan ikkita cho'ntak va orqa tomondan ikkita tugma. Haqiqiy erkakning kundalik uslubi uchun juda mos keladi.",
+    "price": "363000.00",
+    "available": true,
+    "created": "2024-06-04T17:33:49.698Z",
+    "updated": "2024-06-04T17:33:49.698Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 8,
+  "fields": {
+    "category": 1,
+    "name": "Erkaklar uchun shimlar Terra Pro SS24CL3-2-19924",
+    "slug": "erkaklar-uchun-shimlar-terra-pro-ss24cl3-2-19924",
+    "image": "products/2024/06/04/co0nlmv2u18gghclhqug.jpg",
+    "description": "Erkaklar shimlari zamonaviy erkak garderobining eng muhim elementlaridan biridir. Ular qulaylik, uslub va funksionallikni ta'minlaydi. Erkaklar shimlarining turli xil modellari mavjud, ularning har biri o'ziga xos xususiyatlarga va afzalliklarga ega. Misol uchun, ko'ylak shimlari ish uchrashuvlari va rasmiy tadbirlar uchun ideal, sport shimlari esa ochiq havoda va sport uchun ideal. Erkaklar shimlarini tanlashda siz bo'yingiz, vazningiz, tanangiz turi va shaxsiy imtiyozlaringizni hisobga olishingiz kerak. Shuningdek, materialning sifatiga va shimlarning mosligiga e'tibor berish kerak, shunda ular sizning raqamingizga mukammal ko'rinadi.",
+    "price": "459000.00",
+    "available": true,
+    "created": "2024-06-04T17:34:42.664Z",
+    "updated": "2024-06-04T17:34:42.664Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 9,
+  "fields": {
+    "category": 1,
+    "name": "Futbolka Sabr yozuv bilan",
+    "slug": "futbolka-sabr-yozuv-bilan",
+    "image": "products/2024/06/04/cpbcv7vfrr82f0a4g68g.jpg",
+    "description": "abr\" futbolkasi\r\n\r\nSabr va ichki kuch olamiga kiring \"Sabr\" futbolkamiz bilan. Bu uslubli va qulay kiyim ichki tinchlik va sabrning ahamiyatini eslatadi. Yumshoq va nafas oluvchi paxtadan tayyorlangan bo‘lib, kundalik kiyish uchun ideal tanlov.\r\n\r\n\"Sabr\" printi futbolkaning old qismini nafis bezatib turadi va ilojsiz holatlarda ham kuch va umidni saqlab qolishni ta’kidlaydi. Yorqin va taassurotli dizayn futbolkani o‘zgarmaz fikrlilik va ijobiy fikrlashni qadrlaydiganlar uchun ideal tanlov qiladi.\r\n\r\nBu futbolka o‘zingiz yoki yaqinlaringiz uchun ajoyib sovg‘a bo‘lib, har qanday vaziyatda sabrli va kuchli bo‘lish muhimligini eslatadi. Uni faxr bilan kiying va o‘z xabaringizni dunyo bilan baham ko‘ring.\r\n\r\nMaterial: 100% paxta\r\nO‘lchamlar: S, M, L, XL, XXL\r\nParvarish: 30°C da mashinkali yuvish\r\nHozirning o‘zida \"Sabr: Kuch Sabrdadir\" futbolkasi bilan tinchlik va kuchga qadam tashlang!",
+    "price": "150000.00",
+    "available": true,
+    "created": "2024-06-04T17:35:51.553Z",
+    "updated": "2024-06-04T17:35:51.553Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 10,
+  "fields": {
+    "category": 1,
+    "name": "Futbolka BBR uniseks, suv o'tkazmaydigan anime printli, oversayz, paxtada",
+    "slug": "futbolka-bbr-uniseks-suv-otkazmaydigan-anime-printli-oversayz-paxtada",
+    "image": "products/2024/06/04/cpena3ffrr82f0a55u2g.jpg",
+    "description": "BBR uniseks futbolkasi, anime bosma, katta o'lchamli, 100% paxta\r\nBBR uniseks futbolkasi zamonaviy va qulay kiyim bo'lib, erkaklar va ayollar uchun juda mos keladi.\r\n\r\nU yuqori sifatli paxta materialidan tayyorlangan bo'lib, u tanadagi qulaylik va yoqimli tuyg'uni ta'minlaydi.\r\n\r\nBBR uniseks futbolkasi Uniseks dizayni bilan klassik kesimga ega bo'lib, uni barcha jinslarga moslashtiradi. U muntazam ravishda mos keladi, bu harakat erkinligini kafolatlaydi va har qanday shaklga mos keladi.",
+    "price": "690000.00",
+    "available": true,
+    "created": "2024-06-04T17:36:43.055Z",
+    "updated": "2024-06-04T17:36:43.055Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 11,
+  "fields": {
+    "category": 2,
+    "name": "Mini qo'l ventilyatori, USB quvvatlash va stendli ish stoli konditsioneri, 2 tasi 1 da",
+    "slug": "mini-qol-ventilyatori-usb-quvvatlash-va-stendli-ish-stoli-konditsioneri-2-tasi-1-da",
+    "image": "products/2024/06/04/cou9itfj2e4ghqnqgde0.jpg",
+    "description": "Issiq yoz mavsumida har doim ham salqin va tetik his qilish mumkin emas. Bunda sizga bizning mini fanatimiz yordam beradi. Kichkina yordamchi ikkita rejim bilan jihozlangan, bu esa qulayroq foydalanish uchun shamol kuchini boshqarish imkonini beradi. Kichik o'lchamlari va anatomik jihatdan to'g'ri shakli tufayli qo'l fanatini qo'lingizda ushlab turish va har qanday sumkada siz bilan olib yurish qulay. Qo'shimcha qulaylik uchun bizning portativ fanatimizda olinadigan qo'l tasmasi mavjud. Sovutish moslamasi bilan birga kelgan USB zaryadlovchi qurilmasi sizga har qanday joyda, hatto eng issiq kunlarda ham salqinlik manbai bo'lish imkonini beradi. Batareya to'liq zaryadlanganda 8 soatgacha zaryadni ushlab turadi. Bizning mini fanatimiz ham birinchi rejim yoqilganda orqa yorug'likka ega, bu uning funksionalligini oshiradi. Agar siz kattalar uchun ham, bola uchun ham sovg'a to'g'risida qaror qabul qila olmasangiz, unda kichkina muxlis - bu ajoyib echim. Bolalar o'yinchog'i qizi va o'g'li uchun sovg'a sifatida juda mos keladi va quloqlari bilan yoqimli dizayn barchani quvontiradi. Ish stoli ventilyatori yuqori sifatli ABS plastmassadan tayyorlangan bo'lib, uning ishlash muddatini oshiradi. Zaryadlanuvchi fan ham tug'ilgan kun yoki yubiley uchun hamkasbiga berishga mos keladi. Qo'l ishqibozi har qanday mavsum uchun ajoyib xarid bo'ladi!",
+    "price": "41000.00",
+    "available": true,
+    "created": "2024-06-04T17:37:59.191Z",
+    "updated": "2024-06-04T17:37:59.191Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 12,
+  "fields": {
+    "category": 2,
+    "name": "Kir yuvish mashinasi JPE Invertor BLDC, 6-8 kg, kechiktirib yuvish, Child-Lock, ko'pikni olib tashlash",
+    "slug": "kir-yuvish-mashinasi-jpe-invertor-bldc-6-8-kg-kechiktirib-yuvish-child-lock-kopikni-olib-tashlash",
+    "image": "products/2024/06/04/cpf9advfrr82f0a59nk0.jpg",
+    "description": "Smart yuvish tizimi \r\nzamonaviy kir yuvish mashinalariga kiritilgan innovatsion texnologiya bo'lib, yuvish jarayonini yaxshilash uchun sensorlar va sun'iy intellektdan (AI) foydalanadi. Bunday tizim qamrab oladigan asosiy jihatlar:\r\n\r\nKir yuvish mashinasi JPE Invertor BLDC, 6-8 kg, kechiktirib yuvish, Child-Lock, ko'pikni olib tashlash fotosurat\r\n\r\nMatoning vazni va turini avtomatik aniqlash:\r\n\r\nBizning aqlli kir yuvish mashinalarimiz yukning og'irligi va mato turini aniqlaydigan sensorlar bilan jihozlangan. Bu sizga aylanish vaqti, suv harorati va detarjan miqdori kabi yuvish parametrlarini avtomatik ravishda sozlash imkonini beradi.\r\nResurs iste'molini optimallashtirish:\r\n\r\nAqlli kir yuvish mashinalari matoning yuki va turiga qarab suv va energiya sarfini tartibga solib, yuvish jarayonini yanada ekologik toza va tejamkor qiladi.\r\nDiagnostika va texnik xizmat ko'rsatish:\r\n\r\nIntellektual tizimlar o'z-o'zidan tashxis qo'yishi va nosozliklarni aniqlashi mumkin. Foydalanuvchi muammolarni bartaraf etish yoki xizmatga qo'ng'iroq qilish bo'yicha tavsiyalar olishi mumkin, bu esa texnik xizmat ko'rsatishni sezilarli darajada osonlashtiradi.\r\nSozlamalar va yuvish dasturlari:\r\n\r\nAqlli kir yuvish mashinalari ko'pincha sizning ehtiyojlaringiz asosida sozlanishi mumkin bo'lgan bir nechta yuvish dasturlari bilan birga keladi. Masalan, nozik matolar uchun maxsus dasturlar, tez yuvish, allergiyaga qarshi davolash va boshqalar.\r\nKompaniyamiz har xil turdagi matolar uchun yuvish jarayonini yanada qulay, tejamkor va xavfsiz qilish uchun texnologiyalarni faol ravishda rivojlantirmoqda.\r\n\r\n\r\n\r\nAvtobalans\r\nKir yuvish mashinasi JPE Invertor BLDC, 6-8 kg, kechiktirib yuvish, Child-Lock, ko'pikni olib tashlash fotosurat\r\n\r\nZamonaviy kir yuvish mashinalarining asosiy afzalliklaridan biri bu avtomatik muvozanat funksiyasidir. Ushbu innovatsion texnologiya yuvish jarayonini sezilarli darajada yaxshilaydi, bu sizning kiyimlaringiz va mashinaning o'zi uchun yanada samarali va xavfsizroq qiladi. Avtomatik balansga ega bo'lishning muhim afzalligi nima uchun asosiy sabablar:\r\n\r\nMashinaning ishlash muddatini uzaytirish:\r\n\r\nAvtomatik balans funksiyasi tufayli kir yuvish mashinasi kirlarning muvozanatsiz yuklarini avtomatik ravishda tuzatib, ortiqcha tebranish va komponentlarning eskirishini oldini oladi. Bu mashinaning chidamliligini sezilarli darajada oshiradi, buzilish xavfini va tez-tez texnik xizmat ko'rsatish zaruriyatini kamaytiradi.\r\nShovqin va tebranishlarni kamaytirish:\r\n\r\nAvtomatik balans funksiyasiga ega mashinalar ancha sokin ishlaydi. Avtomatik nomutanosiblikni tuzatish shovqin va tebranishlarni minimallashtiradi, bu ayniqsa kechasi yoki ortiqcha shovqin qo'shnilarni bezovta qilishi mumkin bo'lgan ko'p qavatli uylarda foydalanish uchun juda muhimdir.\r\nYuvish va siqish samaradorligi:\r\n\r\nKirlarni barabanda bir xil taqsimlash yaxshiroq yuvish va samaraliroq yigirishga yordam beradi. Bu sizning kiyimlaringiz yaxshiroq tozalanishi va tezroq quritilishini anglatadi, bu sizga vaqt va resurslarni tejaydi.\r\nAylantirish tezligini aqlli sozlash:\r\n\r\nAgar muvozanatni to'liq tuzatib bo'lmasa, kir yuvish mashinasi aylanish tezligini avtomatik ravishda pasaytiradi. Bu kiyim va barabanning o'ziga mumkin bo'lgan zararni oldini oladi, yuvish jarayonining xavfsizligini ta'minlaydi.\r\nFoydalanishning soddaligi va qulayligi:\r\n\r\nAvtomatik muvozanat funksiyasiga ega zamonaviy kir yuvish mashinalari yuvish jarayonini sodda va qulayroq qiladi. Kirlarni har bir yuk bilan teng taqsimlash haqida tashvishlanishingiz shart emas — mashina buni siz uchun qiladi.",
+    "price": "3399000.00",
+    "available": true,
+    "created": "2024-06-04T17:39:00.693Z",
+    "updated": "2024-06-04T17:39:00.693Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 13,
+  "fields": {
+    "category": 5,
+    "name": "Otjimaniya uchun taxta, trenajor qo'llar va tana uchun, espander",
+    "slug": "otjimaniya-uchun-taxta-trenajor-qollar-va-tana-uchun-espander",
+    "image": "products/2024/06/04/cp6e2ddbnta2393fna7g.jpg",
+    "description": "Otjimaniya uchun platformasi 22 tasi 1 dа taxta\r\nOtjimaniya Board Training ko'p funktsiyali fitnes murabbiyi-bu otjimaniyalarni bajarish uchun turli xil to'xtash tutqichlari pozitsiyalariga ega yorug'lik markerlari bo'lgan plastik taxta. otjimaniya platformasi pushup uchun ishlatiladi. 100 kg yukga bardosh beradi. Platformadan foydalanib, uning qiyosiy yuk ostida \"mushtda\" surish kabi qo'llarning bo'g'imlariga zarar etkazmaydi. Avtoturargohlarni o'rnatish platformasidagi yorug'lik belgilari guruhlariga bo'linadi: qizil-ko'krak, ko'k-elkalar, yashil-orqa, sariq-qo'llar.\r\n\r\nOtjimaniya uchun taxta, trenajor qo'llar va tana uchun, espander fotosuratOtjimaniya uchun taxta, trenajor qo'llar va tana uchun, espander fotosuratOtjimaniya uchun taxta, trenajor qo'llar va tana uchun, espander fotosuratOtjimaniya uchun taxta, trenajor qo'llar va tana uchun, espander fotosuratOtjimaniya uchun taxta, trenajor qo'llar va tana uchun, espander fotosurat\r\n\r\nPush-up platformasi sizning uyingiz uchun mukammal mashq mashinasidir. Axir, bunday sport anjomlari ko'p joy egallamaydi, lekin ayni paytda sport zaliga tashrif buyurmasdan to'liq huquqli mashg'ulotlarni o'tkazishga imkon beradi. Push-up taxtasi butun tanangizdagi mushaklarni pompalashga yordam beradi. Kerakli mushak guruhi uchun surish taxtasining tutqichlarini mos keladigan ranglarning teshiklariga olib boring. Push-up tayanchlari ko’p pozitsiyaga ega bo'lib, ular turli o'lchamdagi va og'irlikdagi odamlar uchun mos keladi. Push-up taxtasi yuqori quvvatli ABS plastmassadan tayyorlangan va 150 kg gacha bo'lgan yuklarga bardosh bera oladi. Surish tayanchlari ishqalanmaydi va sirpanmaydi va yangi boshlanuvchilar uchun ham, professional sportchilar uchun ham qulay bo'ladi.\r\n\r\nAn'anaviy pol mashqlaridan farqli o'laroq, surish taxtasi bilak jarohatlarini kamaytiradi va mushaklarning kuchayishiga imkon beradi. Push-up tayanchlarini saqlash qulay, chunki... Trening apparati stendi butunlay qismlarga ajratilgan va yarmiga katlanmış.\r\n\r\nO'zining kichik o'lchamidan kelib chiqqan holda, uy mashqlari mashinasini sayohatga, ta'tilga yoki xizmat safariga olib borish oson, bu sizning kuch mashqlaringizni to'xtatmaslik uchun. Push-up taxtasi sizga mashqlarni diversifikatsiya qilish, chidamlilikni oshirish, vazn yo'qotish, yurak-qon tomir tizimini mustahkamlash va qisqa vaqt ichida chiroyli tana shakliga erishish imkonini beradi.\r\n\r\nTo'plamga tutqichlar va yumshoq neylonlar kiradi, ular polda sirpanish va tirnalishni oldini olish uchun taglikka yopishtiriladi.",
+    "price": "15000.00",
+    "available": true,
+    "created": "2024-06-04T17:39:52.311Z",
+    "updated": "2024-06-04T17:39:52.311Z"
+  }
+},
+{
+  "model": "product.product",
+  "pk": 14,
+  "fields": {
+    "category": 5,
+    "name": "Espander qo'l barmoqlari va bilaklar uchun, barmoqlar uchun trenajor, insult oldini oladi",
+    "slug": "espander-qol-barmoqlari-va-bilaklar-uchun-barmoqlar-uchun-trenajor-insult-oldini-oladi",
+    "image": "products/2024/06/04/cluje5bpvnpo2vtqtugg.jpg",
+    "description": "Mahsulot haqida qisqacha:\r\n3 xil qiyinlik darajasi\r\nMuntazam foydalanish uchun mo'ljallangan\r\nInsultni oldini oladi va davolaydi\r\nOlib yurish juda qulay\r\nBarcha uchun mos keladi\r\nMaterial: silikonMahsulot haqida qisqacha:\r\n3 xil qiyinlik darajasi\r\nMuntazam foydalanish uchun mo'ljallangan\r\nInsultni oldini oladi va davolaydi\r\nOlib yurish juda qulay\r\nBarcha uchun mos keladi\r\nMaterial: silikon",
+    "price": "21000.00",
+    "available": true,
+    "created": "2024-06-04T17:41:01.311Z",
+    "updated": "2024-06-04T17:41:01.311Z"
+  }
+},
+{
+  "model": "product.review",
+  "pk": 10,
+  "fields": {
+    "review": "Ajoyib qurilma kena menga yoqdia",
+    "emial": "shahzod@gmail.com",
+    "name": "Shahozd",
+    "created": "2024-06-12T15:34:25.894Z",
+    "product": 14
+  }
+},
+{
+  "model": "product.review",
+  "pk": 11,
+  "fields": {
+    "review": "asdasdasdasd",
+    "emial": "shahzod@gmail.com",
+    "name": "asdasdasdasd",
+    "created": "2024-06-12T15:43:14.314Z",
+    "product": 14
+  }
+},
+{
+  "model": "product.review",
+  "pk": 12,
+  "fields": {
+    "review": "sdfsdf",
+    "emial": "shahzod@gmail.com",
+    "name": "sdfsdf",
+    "created": "2024-06-12T15:52:26.780Z",
+    "product": 13
+  }
+},
+{
+  "model": "product.review",
+  "pk": 13,
+  "fields": {
+    "review": "dfgdfgdfg",
+    "emial": "shahzod@gmail.com",
+    "name": "gdfgdfg",
+    "created": "2024-06-12T15:53:16.007Z",
+    "product": 9
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 1,
+  "fields": {
+    "first_name": "Shahzod",
+    "last_name": "Abdashev",
+    "emial": "shahzod@gmail.com",
+    "address": "angren",
+    "postal_code": 110200,
+    "city": "Tashkent",
+    "created": "2024-06-06T07:27:56.602Z",
+    "updated": "2024-06-06T07:27:56.602Z",
+    "paid": false,
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 2,
+  "fields": {
+    "first_name": "Shahzod",
+    "last_name": "Abdashev",
+    "emial": "shahzod@gmail.com",
+    "address": "angren",
+    "postal_code": 110200,
+    "city": "Tashkent",
+    "created": "2024-06-06T07:29:16.510Z",
+    "updated": "2024-06-06T07:29:16.510Z",
+    "paid": false,
+    "coupon": null,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 3,
+  "fields": {
+    "first_name": "sasdasd",
+    "last_name": "asdasd",
+    "emial": "shahzod@gmail.com",
+    "address": "asdasdasd",
+    "postal_code": 3212,
+    "city": "asdsas",
+    "created": "2024-06-06T09:38:59.048Z",
+    "updated": "2024-06-06T09:38:59.048Z",
+    "paid": false,
+    "coupon": 1,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 4,
+  "fields": {
+    "first_name": "dfsdf",
+    "last_name": "sdfsdf",
+    "emial": "shahzod@gmail.com",
+    "address": "angren",
+    "postal_code": 110200,
+    "city": "Tashkent",
+    "created": "2024-06-06T16:20:06.786Z",
+    "updated": "2024-06-06T16:20:06.786Z",
+    "paid": false,
+    "coupon": 2,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 5,
+  "fields": {
+    "first_name": "adasd",
+    "last_name": "asdasdas",
+    "emial": "shahzod@gmail.com",
+    "address": "angren",
+    "postal_code": 110200,
+    "city": "Tashkent",
+    "created": "2024-06-07T11:07:34.188Z",
+    "updated": "2024-06-07T11:07:34.188Z",
+    "paid": false,
+    "coupon": 2,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.order",
+  "pk": 6,
+  "fields": {
+    "first_name": "asASas",
+    "last_name": "ASas",
+    "emial": "shahzod@gmail.com",
+    "address": "ASDAS",
+    "postal_code": 110200,
+    "city": "Tashkent",
+    "created": "2024-06-12T16:52:06.857Z",
+    "updated": "2024-06-12T16:52:06.857Z",
+    "paid": false,
+    "coupon": 2,
+    "discount": 0
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 1,
+  "fields": {
+    "order": 1,
+    "product": 10,
+    "price": "150000.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 2,
+  "fields": {
+    "order": 1,
+    "product": 9,
+    "price": "150000.00",
+    "quantity": 10
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 3,
+  "fields": {
+    "order": 2,
+    "product": 10,
+    "price": "150000.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 4,
+  "fields": {
+    "order": 2,
+    "product": 9,
+    "price": "150000.00",
+    "quantity": 10
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 5,
+  "fields": {
+    "order": 3,
+    "product": 13,
+    "price": "25000.00",
+    "quantity": 6
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 6,
+  "fields": {
+    "order": 3,
+    "product": 10,
+    "price": "25000.00",
+    "quantity": 7
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 7,
+  "fields": {
+    "order": 3,
+    "product": 1,
+    "price": "25000.00",
+    "quantity": 3
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 8,
+  "fields": {
+    "order": 4,
+    "product": 14,
+    "price": "21000.00",
+    "quantity": 9
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 9,
+  "fields": {
+    "order": 5,
+    "product": 13,
+    "price": "15000.00",
+    "quantity": 20
+  }
+},
+{
+  "model": "orders.orderitem",
+  "pk": 10,
+  "fields": {
+    "order": 6,
+    "product": 12,
+    "price": "3399000.00",
+    "quantity": 1
+  }
+},
+{
+  "model": "coupons.coupon",
+  "pk": 1,
+  "fields": {
+    "code": "soqqa",
+    "valid_from": "2024-06-06T09:06:34Z",
+    "valid_to": "2024-06-09T09:06:42Z",
+    "discount": 50,
+    "active": true
+  }
+},
+{
+  "model": "coupons.coupon",
+  "pk": 2,
+  "fields": {
+    "code": "shahzod",
+    "valid_from": "2024-06-06T09:06:57Z",
+    "valid_to": "2024-06-18T09:07:00Z",
+    "discount": 70,
+    "active": true
+  }
+}
+]
